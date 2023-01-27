@@ -1,5 +1,5 @@
 ## Welcome to cs-resources
-As I make my way through my education, I come across a lot of resources that I would like to remember. They often ended up as sticky notes scattered around my desk or as random txt files hidden somewhere on my ccomputer. I finally decided to aggregate them into this repository. This is mostly made for my personal use, but you are welcome to suggest pages.
+As I make my way through my education, I come across a lot of resources that I would like to remember. They often end up as sticky notes scattered around my desk or as random text files hidden somewhere on my computer. I finally decided to aggregate them into this repository. This is mostly made for my personal use, but you are welcome to suggest pages.
 
 
 # Programming

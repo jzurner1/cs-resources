@@ -27,7 +27,7 @@ As I make my way through my education, I come across a lot of resources that I w
 - [ATT&CK](https://attack.mitre.org/) - A collection of tactics and techniques used by attackers
 - [Paul Jerimy's Roadmaps](https://pauljerimy.com/security-certification-roadmap/) - That big table of certifications that you've probably seen
 - [How to Write an InfoSec Resume](https://bytebreach.com/how-to-write-an-infosec-resume/) - The best and most thorough resume guide I know of
-- [OffSec Proving Grounds)[https://www.offensive-security.com/labs/individual/] - Free and paid labs for pentesting; I haven't tried it yet, but I want to
+- [OffSec Proving Grounds](https://www.offensive-security.com/labs/individual/) - Free and paid labs for pentesting; I haven't tried it yet, but I want to
 
 ### Web security
 - [PortSwigger](https://portswigger.net/web-security/dashboard) - My favorite educational site so far, dedicated towards web security

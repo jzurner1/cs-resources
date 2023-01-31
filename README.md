@@ -33,3 +33,4 @@ As I make my way through my education, I come across a lot of resources that I w
 - [PortSwigger](https://portswigger.net/web-security/dashboard) - My favorite educational site so far, dedicated towards web security
 - [Swisskyrepo's Payloads](https://github.com/swisskyrepo/PayloadsAllTheThings) - A collection of payloads and bypasses
 - [OWASP Cheat Sheets](https://github.com/OWASP/CheatSheetSeries) - A collection of cheat sheets by OWASP
+- [XSSHunter](https://xsshunter.trufflesecurity.com/) - Updated version of XSSHunter

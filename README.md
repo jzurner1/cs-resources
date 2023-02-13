@@ -14,9 +14,11 @@ As I make my way through my education, I come across a lot of resources that I w
 - [W3Schools](https://www.w3schools.com/) - My favorite reference site for programming
 - [@SantalTech's resource list](https://medium.com/@SantalTech/every-resource-i-used-to-get-500k-software-engineering-offers-bae44a0097c7) - Mostly for web development as a career
 - [Devhints.io](https://devhints.io/) - A collection of cheatsheets for many things
+- [Regex 101](https://regex101.com/) - A way to test regex
 
 ### Development Resources
 - [SVG Icons](https://tablericons.com/) - Massive collection of SVG icons for website use
+- [Front-end checklist](https://frontendchecklist.io/) - A checklist to make sure the front end of a website is well-made
 
 
 # Internet Technologies

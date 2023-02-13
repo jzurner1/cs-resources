@@ -31,3 +31,6 @@ As I make my way through my education, I come across a lot of resources that I w
 - [Swisskyrepo's Payloads](https://github.com/swisskyrepo/PayloadsAllTheThings) - A collection of payloads and bypasses
 - [OWASP Cheat Sheets](https://github.com/OWASP/CheatSheetSeries) - A collection of cheat sheets by OWASP
 - [XSSHunter](https://xsshunter.trufflesecurity.com/) - Updated version of XSSHunter
+- [Browser rendering](https://blog.logrocket.com/how-browser-rendering-works-behind-scenes/) - Overview of how browser rendering works
+- [ExplainShell](https://explainshell.com/) - Descriptions of shell commands
+- [CyberChef](https://0x1.gitlab.io/code/CyberChef/) - Used for decrypting encodings or encryption

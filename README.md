@@ -14,6 +14,7 @@ As I make my way through my education, I come across a lot of resources that I w
 - [W3Schools](https://www.w3schools.com/) - My favorite reference site for programming
 
 ### Development Resources
+- [How browsers work](https://www.freecodecamp.org/news/web-application-security-understanding-the-browser-5305ed2f1dac/) - A good overview of how browsers work
 - [SVG Icons](https://tablericons.com/) - Massive collection of SVG icons for website use
 
 

@@ -12,10 +12,17 @@ As I make my way through my education, I come across a lot of resources that I w
 - [Harvard's CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) - Possibly one of the most well-known programming courses, so I'd like to finish it one day
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn) - Mozilla's development guides
 - [W3Schools](https://www.w3schools.com/) - My favorite reference site for programming
+- [@SantalTech's resource list](https://medium.com/@SantalTech/every-resource-i-used-to-get-500k-software-engineering-offers-bae44a0097c7) - Mostly for web development as a career
 
 ### Development Resources
-- [How browsers work](https://www.freecodecamp.org/news/web-application-security-understanding-the-browser-5305ed2f1dac/) - A good overview of how browsers work
 - [SVG Icons](https://tablericons.com/) - Massive collection of SVG icons for website use
+
+
+# Internet Technologies
+- [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [How browsers work](https://www.freecodecamp.org/news/web-application-security-understanding-the-browser-5305ed2f1dac/)
+- [TCP in depth](https://dev.to/tamerlang/tcp-in-depth-3g83#:~:text=It%20is%20used%20on%20top,referred%20to%20as%20TCP%2FIP.) - Pretty good overview of TCP, somewhat brief
+- [Understanding TCP internals](https://codeburst.io/understanding-tcp-internals-step-by-step-for-software-engineers-system-designers-part-1-df0c10b86449) - More in depth, specifically for software engineers
 
 
 

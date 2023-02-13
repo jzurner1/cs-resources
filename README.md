@@ -13,6 +13,7 @@ As I make my way through my education, I come across a lot of resources that I w
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn) - Mozilla's development guides
 - [W3Schools](https://www.w3schools.com/) - My favorite reference site for programming
 - [@SantalTech's resource list](https://medium.com/@SantalTech/every-resource-i-used-to-get-500k-software-engineering-offers-bae44a0097c7) - Mostly for web development as a career
+- [Devhints.io](https://devhints.io/) - A collection of cheatsheets for many things
 
 ### Development Resources
 - [SVG Icons](https://tablericons.com/) - Massive collection of SVG icons for website use

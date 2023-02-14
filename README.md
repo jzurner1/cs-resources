@@ -33,6 +33,7 @@ As I make my way through my education, I come across a lot of resources that I w
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn) - Mozilla's development guides
 - [Devhints.io](https://devhints.io/) - A collection of cheatsheets for many things
 - [ATT&CK](https://attack.mitre.org/) - A collection of tactics and techniques used by attackers
+- [Introduction to Node.js](https://nodejs.dev/en/learn/) - Learn the basics of Node.js
 
 
 ### How does it work?

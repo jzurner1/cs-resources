@@ -55,3 +55,4 @@ As I make my way through my education, I come across a lot of resources that I w
 ### Resource Collections
 - [Hakluke's resource list](https://labs.detectify.com/2021/08/24/hakluke-list-resources-for-beginner-hackers-2021/) - A collection of cybersecurity resources
 - [s0cm0nkey's resource list](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/) - An even bigger collection of resources
+- [OSINT Collection](https://github.com/Ph055a/OSINT_Collection) - A collection of OSINT resources

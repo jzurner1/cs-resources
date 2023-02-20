@@ -8,6 +8,7 @@ As I make my way through my education, I come across a lot of resources that I w
 - [@SantalTech's resource list](https://medium.com/@SantalTech/every-resource-i-used-to-get-500k-software-engineering-offers-bae44a0097c7) - Mostly for web development as a career
 - [Developer Roadmaps](https://roadmap.sh/) - A collection of roadmaps for different goals
 - [Paul Jerimy's Roadmaps](https://pauljerimy.com/security-certification-roadmap/) - That big table of certifications that you've probably seen
+- [Network administrator guide](https://onlinedegrees.sandiego.edu/network-administrator-career-salary-guide/) - Helpful guide to becoming a network administrator
 
 
 ### Interactive Learning
